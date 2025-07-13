@@ -19,7 +19,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,html,css,react,nextjs,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,git,vscode)](https://skillicons.dev)
 
 </div>
 
