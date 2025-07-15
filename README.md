@@ -6,9 +6,11 @@
 
 <h1 align="center">🧠 Sobre</h1>
 
-<p align="center">Sou desenvolvedor focado em transformar ideias em experiências digitais funcionais e elegantes.  
-Escrevo código limpo, com atenção ao detalhe, usabilidade e performance.  
-Acredito em soluções com propósito, estética e clareza.</p>
+<p align="center">
+Sou desenvolvedor focado em transformar ideias em experiências digitais funcionais e elegantes.<br />
+Escrevo código limpo, com atenção ao detalhe, usabilidade e performance.<br />
+Acredito em soluções com propósito, estética e clareza.
+</p>
 
 ---
 
