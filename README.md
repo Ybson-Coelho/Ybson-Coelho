@@ -1,27 +1,34 @@
-# ✨ Welcome
+<h1 align="center">✨ Welcome ✨</h1>
 
-> *"Baby, I'm a dreamer coding under violet skies."*
-
----
-
-## Sobre
-
-Desenvolvedor focado em transformar ideias em experiências digitais funcionais e elegantes.  
-Acredito em soluções com propósito, estética e código limpo.
+<p align="center"><em>"Baby, I'm a dreamer coding under violet skies."</em></p>
 
 ---
 
-## Tecnologias
+## 🧠 Sobre
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,git,vscode)](https://skillicons.dev)
-
----
-
-## Código com propósito
-
-Cada linha é escrita com atenção ao detalhe, clareza e usabilidade.  
-Busco equilíbrio entre inovação, performance e design.
+Sou desenvolvedor focado em transformar ideias em experiências digitais funcionais e elegantes.  
+Escrevo código limpo, com atenção ao detalhe, usabilidade e performance.  
+Acredito em soluções com propósito, estética e clareza.
 
 ---
 
-> ⭐ Se curtir algum projeto, considere deixar uma estrela. Ajudar desenvolvedores também é construir o futuro.
+## 🛠️ Tecnologias
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,git,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+## 📌 Valores
+
+- ✨ Clareza antes de complexidade  
+- 🧩 Design com função  
+- 🚀 Inovação com responsabilidade  
+- 🎯 Código que resolve, não só impressiona  
+
+---
+
+<p align="center">
+  ⭐ Curtiu algum projeto? Deixar uma estrela ajuda mais do que você imagina.
+</p>
