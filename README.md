@@ -14,9 +14,9 @@ Acredito em soluções com propósito, estética e clareza.</p>
 
 <h1 align="center">🛠️ Tecnologias </h1>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,git,vscode" alt="Tech Stack" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,git,vscode" />
+</div>
 
 ---
 
