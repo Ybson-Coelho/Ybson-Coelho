@@ -4,28 +4,19 @@
 
 ---
 
-## 🧠 Sobre
+<h1 align="center">🧠 Sobre</h1>
 
-Sou desenvolvedor focado em transformar ideias em experiências digitais funcionais e elegantes.  
+<p align="center">Sou desenvolvedor focado em transformar ideias em experiências digitais funcionais e elegantes.  
 Escrevo código limpo, com atenção ao detalhe, usabilidade e performance.  
-Acredito em soluções com propósito, estética e clareza.
+Acredito em soluções com propósito, estética e clareza.</p>
 
 ---
 
-## 🛠️ Tecnologias
+<h1 align="center">🛠️ Tecnologias </h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,git,vscode" alt="Tech Stack" />
 </p>
-
----
-
-## 📌 Valores
-
-- ✨ Clareza antes de complexidade  
-- 🧩 Design com função  
-- 🚀 Inovação com responsabilidade  
-- 🎯 Código que resolve, não só impressiona  
 
 ---
 
