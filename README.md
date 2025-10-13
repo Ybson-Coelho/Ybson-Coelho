@@ -4,12 +4,12 @@
 
 ---
 
-<h1 align="center">🧠 About</h1>
+<h1 align="center">🧠 About Me</h1>
 
 <p align="center">
-I'm a developer passionate about turning ideas into sleek and functional digital experiences.<br />
-I write clean code with a focus on detail, usability, and performance.<br />
-I believe in creating purposeful solutions with clarity and aesthetics.
+I'm a <strong>Web Developer</strong> and <strong>beginner Android Developer</strong> passionate about building digital experiences that connect design and purpose.<br />
+I love writing clean, efficient, and scalable code — with a focus on detail, usability, and performance.<br />
+Always learning, always creating. 🚀
 </p>
 
 ---
@@ -17,11 +17,29 @@ I believe in creating purposeful solutions with clarity and aesthetics.
 <h1 align="center">🛠️ Tech Stack</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,flutter,dart,git,vscode,mongodb" />
+</div>
+
+---
+
+<h1 align="center">⚡ GitHub Stats</h1>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Ybson-Coelho&show_icons=true&theme=tokyonight&hide_border=true" height="160em" />
+
+</div>
+
+---
+
+<h1 align="center">🔥 Streak & Activity</h1>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
 <p align="center">
-  ⭐ Liked one of my projects? Dropping a star helps more than you think.
+  ⭐ Enjoyed one of my projects? Dropping a star means the world — it helps more than you think.
 </p>
