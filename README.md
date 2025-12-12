@@ -26,7 +26,7 @@ Always learning, always creating. 🚀
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Ybson-Coelho&show_icons=true&theme=tokyonight&hide_border=false" height="160em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ybson-Coelho&show_icons=true&theme=tokyonight&hide_border=true" height="160em" />
 
 </div>
 
@@ -35,7 +35,7 @@ Always learning, always creating. 🚀
 <h1 align="center">🔥 Streak & Activity</h1>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ybson-Coelho&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Ybson-Coelho&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
