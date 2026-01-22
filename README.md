@@ -7,7 +7,7 @@
 <h1 align="center">🧠 About Me</h1>
 
 <p align="center">
-I'm a <strong>Web Developer</strong> and <strong>beginner Android Developer</strong> passionate about building digital experiences that connect design and purpose.<br />
+I'm a <strong>Web Developer</strong> passionate about building digital experiences that connect design and purpose.<br />
 I love writing clean, efficient, and scalable code — with a focus on detail, usability, and performance.<br />
 Always learning, always creating. 🚀
 </p>
@@ -17,7 +17,7 @@ Always learning, always creating. 🚀
 <h1 align="center">🛠️ Tech Stack</h1>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,flutter,dart,git,vscode,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,vscode,mongodb" />
 </div>
 
 ---
